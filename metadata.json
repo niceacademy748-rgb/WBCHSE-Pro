@@ -1,0 +1,6 @@
+{
+  "name": "WBCHSE Science & NEET Prep",
+  "description": "WBCHSE Higher Secondary Science (Physics, Chemistry, Biology, Math, Bengali, English) and NEET Preparation app with video lectures, PYQs, practice tests, notes, dark mode, offline access, and community forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
